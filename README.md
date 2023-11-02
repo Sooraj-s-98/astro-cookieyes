@@ -1,9 +1,5 @@
 # Astro Starter Kit: Blog in CodeSandbox
 
-```
-npm create astro@latest -- --template blog
-```
-
 [Configuration](https://codesandbox.io/docs/projects/learn/setting-up/tasks) has been added to optimize it for [CodeSandbox Projects](https://codesandbox.io/p/dashboard).
 
 [![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/github/codesandbox/blog-example)
@@ -61,6 +57,19 @@ All commands are run from the root of the project, from a terminal:
 
 Check out [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
 
-## Credit
 
-This theme is based off of the lovely [Bear Blog](https://github.com/HermanMartinus/bearblog/).
+# Cookie consent
+
+<img src="https://www.cookieyes.com/wp-content/themes/cookieyes-new/assets/images/home-page/tab1.svg" />
+
+You can implement cookie consent on your website in just 3 simple steps.
+
+Sign up on CookieYes for free
+Choose your cookie consent banner layout
+Copy the cookie banner code and paste it to your website
+
+Guide: <a href="https://www.cookieyes.com/category/documentation/getting-started/">How to add a cookie banner on website </a>
+
+Cookie consent is the legal requirement to obtain consent from website visitors before setting cookies on their devices. Consent is collected via a cookie banner that enables visitors to accept or decline cookies on the website.
+
+Privacy regulations like the GDPR in the EU and UK, LGPD in Brazil, POPIA in South Africa and similar laws around the world require businesses to get consent for collecting a user’s personal data. As cookies and trackers can store personal data and be used to identify an individual, they are considered part of personal data.
